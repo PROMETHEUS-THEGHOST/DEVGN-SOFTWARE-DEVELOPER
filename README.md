@@ -232,8 +232,6 @@ We have a Discord server for the Devika community, where you can connect with ot
 - Contribute positively: Share your ideas, insights, and feedback to help improve Devgn. Offer assistance to other community members when possible.
 - Maintain privacy: Respect the privacy of others and do not share personal information without their consent.
 
-To join the Devgn community Discord server, [click here](https://discord.gg/CYRp43878y).
-
 ## Contributing
 
 We welcome contributions to enhance Devgn's capabilities and improve its performance. To contribute, please see the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for steps.
