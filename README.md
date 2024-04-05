@@ -75,8 +75,8 @@ Then execute the following set of command:
 
 ```
 ollama serve
-git clone https://github.com/stitionai/devika.git
-cd devika/
+https://github.com/PROMETHEUS-THEGHOST/DEVGN-SOFTWARE-DEVELOPER.git
+cd devgn/
 uv venv
 source .venv/bin/activate
 uv pip install -r requirements.txt
@@ -85,7 +85,7 @@ cd ui/
 bun install
 bun run dev
 cd ..
-python3 devika.py
+python3 devgn.py
 ```
 
 Docker images will be released soon. :raised_hands:
