@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🚀 Devgn - Agentic AI Software Engineer 👩‍💻</h1>
+<h1 align="center">🚀 Devgn - AI Software Developer 👩‍💻</h1>
 
 > [!IMPORTANT]  
 > This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
