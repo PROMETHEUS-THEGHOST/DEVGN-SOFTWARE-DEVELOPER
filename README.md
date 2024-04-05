@@ -99,7 +99,7 @@ To install Devgn, follow these steps:
 
 1. Clone the Devgnrepository:
    ```bash
-  [https://github.com/PROMETHEUS-THEGHOST/DEVGN-SOFTWARE-DEVELOPER.git]
+   https://github.com/PROMETHEUS-THEGHOST/DEVGN-SOFTWARE-DEVELOPER.git
    ```
 2. Navigate to the project directory:
    ```bash
